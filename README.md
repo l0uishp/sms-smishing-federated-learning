@@ -36,9 +36,8 @@ Le **smishing** exploite les SMS pour tromper les utilisateurs (usurpation banca
 
 ```
 .
-├── smishing_federated_v4.ipynb   # Notebook principal (exécutable sur Google Colab)
-├── rapport_smishing_FL.tex       # Rapport scientifique (LaTeX)
-├── rapport_smishing_FL.pdf       # Rapport compilé
+├── smishing_federated.ipynb   # Notebook principal (exécutable sur Google Colab)
+├── rapport_smishing_FL.pdf     
 ├── README.md
 └── figures/                      # Images générées par le notebook
     ├── data_explo.png
